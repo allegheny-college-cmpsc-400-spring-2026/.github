@@ -41,5 +41,43 @@ which is available for free in a webbook format.
 
 ## Act I Deliverables
 
-Descriptions and requirements for the four Act I deliverables will be populated
-here in the coming week.
+### Asynchronous Deliverables
+
+- **Lecture slides**: you're required to submit at least five slides that you'll
+  use for your lecture during Act II. You're welcome to create more material
+  than this to support the delivery of the lecture, but *all* material you are
+  planning to use for the lecture must be reviewed and approved by the
+  instructor by **Thursday, 2/5 @6pm**. The following five slides *must* be
+  included:
+
+  - A slide dedicated to a high-level summary of the problem space
+
+  - A slide dedicated to a high-level overview of the approach to solving said
+    problem
+
+  - A slide containing an infographic (crafted by you) that visually represents
+    some or all of the solution approach
+
+  - A slide indicating how this chapter connects to or informs at least one
+    other chapter from your group
+
+  - A slide connecting the content of this lecture back to your group's lab
+    activity
+
+### Synchronous Deliverables
+
+- **Expertise Oral Examination**: these oral examinations will take the form of
+  one-on-one conversations with the instructor, where the instructor will ask
+  you five high-level questions about the chapter(s) you were assigned, and you
+  will be asked to defend your purported expertise by answering them.
+  These questions will generally test your understanding of the most fundamental
+  aspects of your assigned material. The schedule for these examinations is
+  below:
+
+  - Tuesday, 1/27: TBD
+
+  - Thursday, 1/29: TBD
+
+  - Monday, 2/2: TBD
+
+  - Tuesday, 2/3: TBD
