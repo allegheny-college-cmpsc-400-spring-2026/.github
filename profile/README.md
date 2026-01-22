@@ -74,10 +74,10 @@ which is available for free in a webbook format.
   aspects of your assigned material. The schedule for these examinations is
   below:
 
-  - Tuesday, 1/27: TBD
+  - Tuesday, 1/27: Evan, Kaitlyn, Ryan, Coltin
 
-  - Thursday, 1/29: TBD
+  - Thursday, 1/29: Grant, Ritesh, Saad
 
-  - Monday, 2/2: TBD
+  - Monday, 2/2: Abishek, V, Xander, Jonah
 
-  - Tuesday, 2/3: TBD
+  - Tuesday, 2/3: Issei, Benny, Cullen
