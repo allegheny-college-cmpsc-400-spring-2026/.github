@@ -43,7 +43,7 @@ which is available for free in a webbook format.
 
 ### Asynchronous Deliverables
 
-- **Lecture slides**: you're required to submit at least five slides that you'll
+- **Lecture Slides**: you're required to submit at least five slides that you'll
   use for your lecture during Act II. You're welcome to create more material
   than this to support the delivery of the lecture, but *all* material you are
   planning to use for the lecture must be reviewed and approved by the
@@ -63,6 +63,18 @@ which is available for free in a webbook format.
 
   - A slide connecting the content of this lecture back to your group's lab
     activity
+
+- **Module Proposal**: working with your teammates, your task is to design a
+  lab-style coding activity that demonstrates your group's assigned learning
+  objective. Your team's repository `README.md` file has been populated with a
+  form that must be filled out and approved by the instructor by **Tuesday,**
+  **1/27 @12:15pm**.
+
+- **Module Prototype**: working with your teammates, you must submit a completed
+  version of your proposed lab activity. Satisfactory prototypes will have met
+  all the requirements laid out in your proposal rubric. An accepted submission
+  is contingent on a passing code review with the instructor by **Thursday,**
+  **2/5 @12:15pm**.
 
 ### Synchronous Deliverables
 
