@@ -67,8 +67,8 @@ which is available for free in a webbook format.
 - **Module Proposal**: working with your teammates, your task is to design a
   lab-style coding activity that demonstrates your group's assigned learning
   objective. Your team's repository `README.md` file has been populated with a
-  form that must be filled out and approved by the instructor by **Tuesday,**
-  **1/27 @12:15pm**.
+  form that must be filled out and approved by the instructor by **Thursday,**
+  **1/29 @12:15pm**.
 
 - **Module Prototype**: working with your teammates, you must submit a completed
   version of your proposed lab activity. Satisfactory prototypes will have met
