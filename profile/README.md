@@ -47,7 +47,7 @@ which is available for free in a webbook format.
   use for your lecture during Act II. You're welcome to create more material
   than this to support the delivery of the lecture, but *all* material you are
   planning to use for the lecture must be reviewed and approved by the
-  instructor by **Thursday, 2/5 @6pm**. The following five slides *must* be
+  instructor by **TBD**. The following five slides *must* be
   included:
 
   - A slide dedicated to a high-level summary of the problem space
@@ -67,14 +67,13 @@ which is available for free in a webbook format.
 - **Module Proposal**: working with your teammates, your task is to design a
   lab-style coding activity that demonstrates your group's assigned learning
   objective. Your team's repository `README.md` file has been populated with a
-  form that must be filled out and approved by the instructor by **Thursday,**
-  **1/29 @6pm**.
+  form that must be filled out and approved by the instructor by **Monday**
+  **2/2 @5pm**.
 
 - **Module Prototype**: working with your teammates, you must submit a completed
   version of your proposed lab activity. Satisfactory prototypes will have met
   all the requirements laid out in your proposal rubric. An accepted submission
-  is contingent on a passing code review with the instructor by **Thursday,**
-  **2/5 @12:15pm**.
+  is contingent on a passing code review with the instructor by **TBD**.
 
 ### Synchronous Deliverables
 
@@ -86,10 +85,10 @@ which is available for free in a webbook format.
   aspects of your assigned material. The schedule for these examinations is
   below:
 
-  - Tuesday, 1/27: Evan, Kaitlyn, Ryan, Coltin
+  - Thursday, 1/29: Evan, Kaitlyn, Ryan, Coltin
 
-  - Thursday, 1/29: Grant, Ritesh, Saad
+  - Monday, 2/2: Grant, Ritesh, Saad
 
-  - Monday, 2/2: Abishek, V, Xander, Jonah
+  - Tuesday, 2/3: Abishek, V, Xander, Jonah
 
-  - Tuesday, 2/3: Issei, Benny, Cullen
+  - Thursday, 2/5: Issei, Benny, Cullen
