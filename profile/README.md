@@ -47,7 +47,7 @@ which is available for free in a webbook format.
   use for your lecture during Act II. You're welcome to create more material
   than this to support the delivery of the lecture, but *all* material you are
   planning to use for the lecture must be reviewed and approved by the
-  instructor by **TBD**. The following five slides *must* be
+  instructor by **Monday, 2/9 @5pm**. The following five slides *must* be
   included:
 
   - A slide dedicated to a high-level summary of the problem space
@@ -67,13 +67,17 @@ which is available for free in a webbook format.
 - **Module Proposal**: working with your teammates, your task is to design a
   lab-style coding activity that demonstrates your group's assigned learning
   objective. Your team's repository `README.md` file has been populated with a
-  form that must be filled out and approved by the instructor by **Monday**
+  form that must be filled out and approved by the instructor by **Monday,**
   **2/2 @5pm**.
 
 - **Module Prototype**: working with your teammates, you must submit a completed
   version of your proposed lab activity. Satisfactory prototypes will have met
   all the requirements laid out in your proposal rubric. An accepted submission
-  is contingent on a passing code review with the instructor by **TBD**.
+  is contingent on a passing code review with the instructor by **Thursday,**
+  **2/12 @6pm**. Accepted submissions will also require a brief set of slides
+  that will be used for the Act II module reveal that go over a high-level
+  review of your module proposal, as well as any starter code you wish to equip
+  students with.
 
 ### Synchronous Deliverables
 
@@ -92,3 +96,49 @@ which is available for free in a webbook format.
   - Tuesday, 2/3: Abishek, V, Xander, Jonah
 
   - Thursday, 2/5: Issei, Benny, Cullen
+
+## Act II Dates
+
+### Process Management
+
+- Monday, 2/16: Module Reveal
+
+- Tuesday, 2/17: Chapter 4 (Evan)
+
+- Thursday, 2/19: Chapter 6 (Kaitlyn)
+
+- Monday, 2/23: Chapters 7/9 (Ryan)
+
+- Tuesday, 2/24: Chapter 8 (Coltin)
+
+### Memory Management
+
+- Thursday, 2/26: Module Reveal
+
+- Monday, 3/9: Chapters 13/15 (Abishek)
+
+- Tuesday, 3/10: Chapter 16 (V)
+
+- Thursday, 3/12: Chapters 18/19 (Xander)
+
+- Monday, 3/16: Chapter 21 (Jonah)
+
+### Concurrency
+
+- Tuesday, 3/17: Module Reveal
+
+- Thursday, 3/19: Chapter 26 (Issei)
+
+- Monday, 3/23: Chapter 28 (Benny)
+
+- Tuesday, 3/24: Chapter 30 (Cullen)
+
+### Persistent Storage
+
+- Thursday, 3/26: Module Reveal
+
+- Monday, 3/30: Chapter 36 (Grant)
+
+- Tuesday, 3/31: Chapter 37 (Ritesh)
+
+- Thursday, 4/2: Chapters 40/41 (Saad)
