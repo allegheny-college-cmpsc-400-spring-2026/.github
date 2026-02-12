@@ -101,7 +101,7 @@ which is available for free in a webbook format.
 
 ### Process Management
 
-- Monday, 2/16: Module Reveal
+- Monday, 2/16: Chapter 3 (Module Reveal)
 
 - Tuesday, 2/17: Chapter 4 (Evan)
 
@@ -113,7 +113,7 @@ which is available for free in a webbook format.
 
 ### Memory Management
 
-- Thursday, 2/26: Module Reveal
+- Thursday, 2/26: Chapter 12 (Module Reveal)
 
 - Monday, 3/9: Chapters 13/15 (Abishek)
 
@@ -125,17 +125,17 @@ which is available for free in a webbook format.
 
 ### Concurrency
 
-- Tuesday, 3/17: Module Reveal
+- Tuesday, 3/17: Chapter 25 (Module Reveal)
 
 - Thursday, 3/19: Chapter 26 (Issei)
 
 - Monday, 3/23: Chapter 28 (Benny)
 
-- Tuesday, 3/24: Chapter 30 (Cullen)
+- Tuesday, 3/24: Free Day
 
 ### Persistent Storage
 
-- Thursday, 3/26: Module Reveal
+- Thursday, 3/26: Chapter 35 (Module Reveal)
 
 - Monday, 3/30: Chapter 36 (Grant)
 
