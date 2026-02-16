@@ -39,63 +39,39 @@ content from Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau's
 [*Operating Systems: Three Easy Pieces*](https://pages.cs.wisc.edu/~remzi/OSTEP/),
 which is available for free in a webbook format.
 
-## Act I Deliverables
+## Act II Deliverables
 
-### Asynchronous Deliverables
+### Asynchronous Deliverables (current non-experts only)
 
-- **Lecture Slides**: you're required to submit at least five slides that you'll
-  use for your lecture during Act II. You're welcome to create more material
-  than this to support the delivery of the lecture, but *all* material you are
-  planning to use for the lecture must be reviewed and approved by the
-  instructor by **Monday, 2/9 @5pm**. The following five slides *must* be
-  included:
+- **Module Completion**: you'll work individually to complete the coding project
+  designed by the current experts. Work with the current experts in their
+  capacity as acting TL's to get preemptive approval for a code review, and then
+  successfully pass a code review with the instructor before the deadline.
 
-  - A slide dedicated to a high-level summary of the problem space
+- **Infographic**: you'll work individually to produce a single infographic that
+  captures a high-level understanding of the current set of topics and presents
+  it in an easily digestible fashion. Expect to present it to the instructor and
+  talk through what the infographic relays to the viewer before the deadline.
 
-  - A slide dedicated to a high-level overview of the approach to solving said
-    problem
+- **Deadlines**: the deadlines for the above expectations are as follows for
+  each collection of chapters:
 
-  - A slide containing an infographic (crafted by you) that visually represents
-    some or all of the solution approach
+  - **Process Management**: Tuesday, 2/24 @ 12:15pm
 
-  - A slide indicating how this chapter connects to or informs at least one
-    other chapter from your group
+  - **Memory Mangement**: Monday, 3/16 @ 5pm
 
-  - A slide connecting the content of this lecture back to your group's lab
-    activity
+  - **Concurrency**: Tuesday, 3/24 @ 12:15pm
 
-- **Module Proposal**: working with your teammates, your task is to design a
-  lab-style coding activity that demonstrates your group's assigned learning
-  objective. Your team's repository `README.md` file has been populated with a
-  form that must be filled out and approved by the instructor by **Monday,**
-  **2/2 @5pm**.
-
-- **Module Prototype**: working with your teammates, you must submit a completed
-  version of your proposed lab activity. Satisfactory prototypes will have met
-  all the requirements laid out in your proposal rubric. An accepted submission
-  is contingent on a passing code review with the instructor by **Thursday,**
-  **2/12 @6pm**. Accepted submissions will also require a brief set of slides
-  that will be used for the Act II module reveal that go over a high-level
-  review of your module proposal, as well as any starter code you wish to equip
-  students with.
+  - **Persistent Storage**: Thursday, 4/2 @ 6pm
 
 ### Synchronous Deliverables
 
-- **Expertise Oral Examination**: these oral examinations will take the form of
-  one-on-one conversations with the instructor, where the instructor will ask
-  you five high-level questions about the chapter(s) you were assigned, and you
-  will be asked to defend your purported expertise by answering them.
-  These questions will generally test your understanding of the most fundamental
-  aspects of your assigned material. The schedule for these examinations is
-  below:
-
-  - Thursday, 1/29: Evan, Kaitlyn, Ryan, Coltin
-
-  - Monday, 2/2: Grant, Ritesh, Saad
-
-  - Tuesday, 2/3: Abishek, V, Xander, Jonah
-
-  - Thursday, 2/5: Issei, Benny, Cullen
+- **Oral Examination**: these oral examinations will take the form of one-on-one
+  conversations with the instructor, where the instructor will ask you five
+  high-level questions about the current set of relevant chapters, and you will
+  be asked to demonstrate your learning by answering them. These questions will
+  generally test your understanding of the most fundamental aspects of the
+  currently relevant material.
 
 ## Act II Dates
 
