@@ -73,6 +73,12 @@ which is available for free in a webbook format.
   generally test your understanding of the most fundamental aspects of the
   currently relevant material.
 
+  - **Thursday, 2/26**: Benny, Coltin, V, Evan, Saad
+
+  - **Monday, 3/9**: Ryan, Issei, Kaitlyn, Jonah, Ritesh
+
+  - **Tuesday, 3/10**: Abishek, Grant, Xander
+
 ## Act II Dates
 
 ### Process Management
