@@ -56,13 +56,13 @@ which is available for free in a webbook format.
 - **Deadlines**: the deadlines for the above expectations are as follows for
   each collection of chapters:
 
-  - **Process Management**: Tuesday, 2/24 @ 12:15pm
+  - **Process Management**: Thursday, 2/26 @ 6pm
 
-  - **Memory Mangement**: Monday, 3/16 @ 5pm
+  - **Memory Mangement**: Tuesday, 3/17 @ 12:15pm
 
-  - **Concurrency**: Tuesday, 3/24 @ 12:15pm
+  - **Concurrency**: Thursday, 3/24 @ 6pm
 
-  - **Persistent Storage**: Thursday, 4/2 @ 6pm
+  - **Persistent Storage**: Tuesday, 4/7 @ 12:15pm
 
 ### Synchronous Deliverables
 
@@ -73,9 +73,9 @@ which is available for free in a webbook format.
   generally test your understanding of the most fundamental aspects of the
   currently relevant material.
 
-  - **Thursday, 2/26**: Benny, Coltin, V, Evan, Saad
+  - **Thursday, 2/26**: Benny, Coltin, V, Issei, Saad
 
-  - **Monday, 3/9**: Ryan, Issei, Kaitlyn, Jonah, Ritesh
+  - **Monday, 3/9**: Ryan, Evan, Kaitlyn, Jonah, Ritesh
 
   - **Tuesday, 3/10**: Abishek, Grant, Xander
 
