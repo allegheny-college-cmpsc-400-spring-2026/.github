@@ -73,11 +73,11 @@ which is available for free in a webbook format.
   generally test your understanding of the most fundamental aspects of the
   currently relevant material.
 
-  - **Tuesday, 3/17**: Benny, Xander, Ryan, V, Issei
+  - **Tuesday, 3/17**: Benny, Xander, Ryan, V, Grant
 
   - **Thursday, 3/19**: Evan, Saad, Coltin, Jonah
 
-  - **Monday, 3/23**: Grant, Ritesh, Abishek, Kaitlyn
+  - **Monday, 3/23**: Issei, Ritesh, Abishek, Kaitlyn
 
 ## Act II Dates
 
