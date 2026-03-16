@@ -60,7 +60,7 @@ which is available for free in a webbook format.
 
   - **Memory Mangement**: Tuesday, 3/17 @ 12:15pm
 
-  - **Concurrency**: Thursday, 3/24 @ 6pm
+  - **Concurrency**: Thursday, 3/26 @ 6pm
 
   - **Persistent Storage**: Tuesday, 4/7 @ 12:15pm
 
