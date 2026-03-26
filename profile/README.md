@@ -62,7 +62,11 @@ which is available for free in a webbook format.
 
   - **Concurrency**: Thursday, 3/26 @ 6pm
 
-  - **Persistent Storage**: Tuesday, 4/7 @ 12:15pm
+  - **Persistent Storage**: 
+
+      - Infographic: Thursday, 4/2 @ 6pm
+      
+      - Code Review: Tuesday, 4/7 @ 12:15pm
 
 ### Synchronous Deliverables
 
