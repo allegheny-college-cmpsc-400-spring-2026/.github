@@ -41,7 +41,7 @@ which is available for free in a webbook format.
 
 ## Act III Deliverables
 
-### Asynchronous Deliverables (current non-experts only)
+### Asynchronous Deliverables
 
 - **Final Project Proposal**: you will work with your chosen teammates to
   propose the specific investigation you will be conducting into the
@@ -57,11 +57,10 @@ which is available for free in a webbook format.
 - **OS Museum**: this in-class activity will be described and executed in class.
 
 - **Culminating Examination**: this oral examination will take the form of a
-  one-on-one conversation with the instructor. You will be asked to simply state
-  one meaningful take-away from each of the four major topics we've covered, as
-  well as assess what you still don't necessarily understand about the topic of
-  operating systems. Expect the instructor to engage with you in these "arenas"
-  of your choosing to test the depth of your knowledge in these areas.
+  one-on-one conversation with the instructor. You will be asked to verbally
+  assert that you've achieved each of the five learning objectives for the
+  course by providing evidence that you can speak comfortably about each major
+  topic.
 
 - **Final Project Presentation**: during our final exam period you will work
   with your peers to propose the results of your benchmarking investigation.
