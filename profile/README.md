@@ -92,3 +92,9 @@ which is available for free in a webbook format.
   experimentation process, as well as relay the ultimate findings of your
   investigation. Finally, the presentation should explicitly address each point
   from your rubric.
+
+## Act III Deadlines
+
+- Proposal: Monday, April 20th @ 5pm
+
+- Presentation: Friday, May 1st @ 12pm
