@@ -50,7 +50,29 @@ which is available for free in a webbook format.
   one policy or mechanism context. Ultimately the project should use
   conventional understanding about the chosen subject to assert that said metric
   is important enough to optimize for, and make an assertion as to which of the
-  explored contexts is most conducive to optimizing said metric.
+  explored contexts is most conducive to optimizing said metric. Specifically,
+  your proposal should contain the following:
+
+  - A clear statement of the type of operating system module you are
+    investigating, and the particular metric you are most interested in, as well
+    as a justification for why that metric matters in this context.
+
+  - A description of at least two different contexts (be they different
+    mechanisms, different policies, etc.) that you will compare and contrast.
+
+  - Evidence that you will be able to test these two contexts (e.g., code that
+    simplistically simulates said contexts, screenshots of architecture
+    information for OSs on devices available to you, etc.).
+
+  - If working in a team, a clear delineation of who is responsible for which
+    pieces of the project, along with intermediate deadlines that you may use
+    to hold each other accountable.
+
+  - If working alone, a list of intermediate deadlines to be used for
+    self-accountability.
+
+  - A five item rubric that consists of five yes/no questions that will be used
+    to evaluate the success of your project. 
 
 ### Synchronous Deliverables
 
@@ -66,3 +88,7 @@ which is available for free in a webbook format.
   with your peers to propose the results of your benchmarking investigation.
   You will not be scored on your presentation or speech capabilities, but rather
   on the merits of the rubric you will develop as part of your project proposal.
+  Each presentation should take ~10-15 minutes, and should walk us through your
+  experimentation process, as well as relay the ultimate findings of your
+  investigation. Finally, the presentation should explicitly address each point
+  from your rubric.
