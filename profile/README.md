@@ -95,6 +95,6 @@ which is available for free in a webbook format.
 
 ## Act III Deadlines
 
-- Proposal: Monday, April 20th @ 5pm
+- Proposal: approved by instructor by Monday, April 20th @ 5pm
 
-- Presentation: Friday, May 1st @ 12pm
+- Presentation: delivered in class by Friday, May 1st @ 12pm
