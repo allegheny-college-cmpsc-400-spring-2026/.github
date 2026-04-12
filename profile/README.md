@@ -39,92 +39,31 @@ content from Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau's
 [*Operating Systems: Three Easy Pieces*](https://pages.cs.wisc.edu/~remzi/OSTEP/),
 which is available for free in a webbook format.
 
-## Act II Deliverables
+## Act III Deliverables
 
 ### Asynchronous Deliverables (current non-experts only)
 
-- **Module Completion**: you'll work individually to complete the coding project
-  designed by the current experts. Work with the current experts in their
-  capacity as acting TL's to get preemptive approval for a code review, and then
-  successfully pass a code review with the instructor before the deadline.
-
-- **Infographic**: you'll work individually to produce a single infographic that
-  captures a high-level understanding of the current set of topics and presents
-  it in an easily digestible fashion. Expect to present it to the instructor and
-  talk through what the infographic relays to the viewer before the deadline.
-
-- **Deadlines**: the deadlines for the above expectations are as follows for
-  each collection of chapters:
-
-  - **Process Management**: Thursday, 2/26 @ 6pm
-
-  - **Memory Mangement**: Tuesday, 3/17 @ 12:15pm
-
-  - **Concurrency**: Thursday, 3/26 @ 6pm
-
-  - **Persistent Storage**: 
-
-      - Infographic: Thursday, 4/2 @ 6pm
-      
-      - Code Review: Tuesday, 4/7 @ 12:15pm
+- **Final Project Proposal**: you will work with your chosen teammates to
+  propose the specific investigation you will be conducting into the
+  intersection between the topic of benchmarking and your chosen subject. Said
+  investigation should center on the testing of a particular metric in more than
+  one policy or mechanism context. Ultimately the project should use
+  conventional understanding about the chosen subject to assert that said metric
+  is important enough to optimize for, and make an assertion as to which of the
+  explored contexts is most conducive to optimizing said metric.
 
 ### Synchronous Deliverables
 
-- **Oral Examination**: these oral examinations will take the form of one-on-one
-  conversations with the instructor, where the instructor will ask you five
-  high-level questions about the current set of relevant chapters, and you will
-  be asked to demonstrate your learning by answering them. These questions will
-  generally test your understanding of the most fundamental aspects of the
-  currently relevant material.
+- **OS Museum**: this in-class activity will be described and executed in class.
 
-  - **Monday, 3/30**: Grant, V, Evan, Abishek, Benny
+- **Culminating Examination**: this oral examination will take the form of a
+  one-on-one conversation with the instructor. You will be asked to simply state
+  one meaningful take-away from each of the four major topics we've covered, as
+  well as assess what you still don't necessarily understand about the topic of
+  operating systems. Expect the instructor to engage with you in these "arenas"
+  of your choosing to test the depth of your knowledge in these areas.
 
-  - **Tuesday, 3/31**: Saad, Ryan, Jonah, Xander
-
-  - **Thursday, 4/2**: Kaitlyn, Ritesh, Coltin, Issei
-
-## Act II Dates
-
-### Process Management
-
-- Monday, 2/16: Chapter 3 (Module Reveal)
-
-- Tuesday, 2/17: Chapter 4 (Evan)
-
-- Thursday, 2/19: Chapter 6 (Kaitlyn)
-
-- Monday, 2/23: Chapters 7/9 (Ryan)
-
-- Tuesday, 2/24: Chapter 8 (Coltin)
-
-### Memory Management
-
-- Thursday, 2/26: Chapter 12 (Module Reveal)
-
-- Monday, 3/9: Chapters 13/15 (Abishek)
-
-- Tuesday, 3/10: Chapter 16 (V)
-
-- Thursday, 3/12: Chapters 18/19 (Xander)
-
-- Monday, 3/16: Chapter 21 (Jonah)
-
-### Concurrency
-
-- Tuesday, 3/17: Chapter 25 (Module Reveal)
-
-- Thursday, 3/19: Chapter 26 (Issei)
-
-- Monday, 3/23: Chapter 28 (Benny)
-
-- Tuesday, 3/24: Free Day
-
-### Persistent Storage
-
-- Thursday, 3/26: Chapter 35 (Module Reveal)
-
-- Monday, 3/30: Chapter 36 (Grant)
-
-- Tuesday, 3/31: Chapter 37 (Ritesh)
-
-- Thursday, 4/2: Chapters 40/41 (Saad)
+- **Final Project Presentation**: during our final exam period you will work
+  with your peers to propose the results of your benchmarking investigation.
+  You will not be scored on your presentation or speech capabilities, but rather
+  on the merits of the rubric you will develop as part of your project proposal.
